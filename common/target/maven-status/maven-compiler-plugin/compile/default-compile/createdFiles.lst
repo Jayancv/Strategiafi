@@ -1,0 +1,7 @@
+org\example\models\Response.class
+org\example\models\RegisterRequest.class
+org\example\models\Request.class
+org\example\Main.class
+org\example\models\RegisterResponse.class
+org\example\models\RequestType.class
+org\example\models\ResponseType.class
