@@ -5,6 +5,7 @@ public class Constants
 
 
   /** Need to set the bootstrap IP and Port here */
+  public static boolean ENABLE_LOCAL_HOST = false;
   public static int BOOTSTRAP_PORT = 55555;
   public static String BOOTSTRAP_IP = "127.0.0.1";
 
